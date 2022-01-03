@@ -1,11 +1,13 @@
-#Marcus Mavini
+# Marcus Mavini
 I'm currently learning Front-End at EBAC.
 
 ### Hi there 👋
 
-🧠 I little bit of Photoshop, Adobre Premiere Pro, After Effects
-🎸 I have a band! [The D.E.L.S](https://linktr.ee/thedels)
-📸 [@marcusmaviniart](https://instagram.com/marcusmaviniart)
+🧠 I little bit of Photoshop, Adobre Premiere Pro, After Effects 
+
+🎸 I have a band! [The D.E.L.S](https://linktr.ee/thedels) 
+
+📸 [@marcusmaviniart](https://instagram.com/marcusmaviniart) 
 
 <!--
 **marcusmavini/marcusmavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
