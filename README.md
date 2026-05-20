@@ -1,5 +1,4 @@
 # Marcus Mavini
-I'm currently learning Front-End at EBAC.
 
 <div align="center">
   <a href="https://github.com/marcusmavini">
